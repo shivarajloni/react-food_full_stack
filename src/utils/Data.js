@@ -6,8 +6,8 @@ import Fi1 from "../img/fi1.png";
 export const heroData = [
     {id: 1, name: "Icecream", decp: "Chocolate & vanilla", price: "75", imageSrc: I1},
     {id: 2, name: "Strawberries", decp: "Frsh Strawberries", price: "45", imageSrc: F1},
-    {id: 3, name: "Chiken Kebab", decp: "Mixed Kebab Plate", price: "25", imageSrc: C3},
-    {id: 4, name: "Fish Kebab", decp: "Mixed fish Kebab", price: "85", imageSrc: Fi1},
+    {id: 3, name: "Veg Kebab", decp: "Mixed Kebab Plate", price: "25", imageSrc: C3},
+    {id: 4, name: "Panner Kebab", decp: "Mixed Veg Kebab", price: "85", imageSrc: Fi1},
 ]
 
 export const categories = [
